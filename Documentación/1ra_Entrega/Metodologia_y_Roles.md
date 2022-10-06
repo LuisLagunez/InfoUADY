@@ -40,4 +40,4 @@ Optamos por escoger la metodología Scrum pues es la más apta para nuestra form
  
 ## Sprint
 
-Se ha tomado la decisión de realizar un sprint cada 3 semanas, de esta forma nos encargamos de llevar un mayor control del proyecto y poder dividir las tareas de forma adecuada.
+Se ha tomado la decisión de realizar un sprint cada 4 semanas, de esta forma nos encargamos de llevar un mayor control del proyecto y poder dividir las tareas de forma adecuada.
