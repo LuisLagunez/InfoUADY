@@ -30,4 +30,4 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 * [Métricas](Documentación/1ra_Entrega/Métricas.pdf)
 * [Diagrama Caso de Uso](Documentación/1ra_Entrega/Diagrama_Caso_de_Uso.PNG)
 * [Cronograma de Actividades](Documentación/1ra_Entrega/Cronograma_Actividades.PNG)
-* [Bitácoras](Documentacion/Bitácoras.md)
+* [Bitácoras](Documentacion/Documentación/Bitácora.md)
