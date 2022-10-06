@@ -5,10 +5,10 @@
 
 # Equipo
 
-* Luis Manuel Lagunez Rodríguez.
-* Raúl Ismael Batun Nahuat.
-* Manuel Enrique Cupul May.
-* Jonatan Alberto Cuxim Poot
+* [Luis Manuel Lagunez Rodríguez](https://github.com/LuisLagunez)
+* [Raúl Ismael Batun Nahuat.](https://github.com/RaulNahuat)
+* [Manuel Enrique Cupul May.](https://github.com/ManuelC13)
+* [Jonatan Alberto Cuxim Poot.](https://github.com/jonatancuxim)
 
 # Descripción General
 
