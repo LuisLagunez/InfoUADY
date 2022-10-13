@@ -18,7 +18,7 @@ De igual manera, nos ayuda a poner en práctica la teoría aprendida en clase y 
 
 # ¿Que es InfoUADY?
 
-Es un proyecto desarrollado por estudiantes de Ingeniería de Software que buscan crear un centro de ayuda para las preguntas más frecuentes que pueden surgir durante la estudia universitaria, dichas preguntas no se suelen abordar con especificidad en los cursos de inducción o los estudiantes hacen caso omiso de este curso y no saben que necesitarán de esta información hasta que deben realizar algún tramite en específico.
+Es un proyecto desarrollado por estudiantes de Ingeniería de Software que buscan crear un centro de ayuda para las preguntas más frecuentes que pueden surgir durante la estudia universitaria, dichas preguntas no se suelen abordar con especificidad en los cursos de inducción o los estudiantes hacen caso omiso de este curso y comprenden la importancia de esta información hasta que deben realizar algún tramite en específico.
 
 # Índice Primera Entrega
 * [Proyecto InfoUADY](Documentación/1ra_Entrega/Proyecto_InfoUADY.pdf)
