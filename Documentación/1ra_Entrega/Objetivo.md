@@ -16,4 +16,4 @@ Brindar apoyo informativo a personas de nuevo ingreso y las que lo necesiten y/o
 
 # Innovación/Creatividad Implementada
 
-La información obtenida para la divulgación será manejada para un entendimiento coloquial, dando un mensaje más claro y preciso. Utilizando igualmente tendencias para captar más la atención de nuestros usuarios.
+El sitio brindará información con una organización selectiva que otras páginas propias de la universidad no cuentan con ello. La información obtenida para la divulgación será manejada para un entendimiento coloquial, dando un mensaje más claro y preciso.
