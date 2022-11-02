@@ -32,6 +32,15 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Comprendí la necesidad de crear la Ingeniería de Software.
 * Conocí los principales respaldos para crear la Ingeniería de Software.
 
+### Manuel Enrique Cupul May
+
+#### Soft Skills
+* Reafirme mi decisión hacía la licenciatura por medio de los temas de introducción vistos.
+* Reforcé y mejoré mi comprensión lectora.
+#### Hard Skills
+* Conocí a fondo lo que es el concepto general de la ingeniería de software.
+* También aprendí sobre los principios de la ingeniería de software.
+
 
 ## Unidad II Áreas de Desarrollo Software
 
@@ -43,6 +52,15 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 #### Hard Skills
 * La evaluación me fue de ayuda para evaluar mis conocimientos adquiridos.
 * Comprendí el software como un proceso/producto.
+
+### Manuel Enrique Cupul May
+
+#### Soft Skills
+* Mejoré mi redacción al llevar a cabo las actividades.
+* Desarrollé métodos de estudio que me ayudaron a comprender con mayor facilidad.
+#### Hard Skills
+* Conocí técnicas y procedimientos que se utilizan al desarrollar software.
+* También aprendí sobre las etapas del software y lo que cada una implica.
 
 
 ## Unidad III Modelos del Ciclo de Vida del Software.
@@ -56,6 +74,14 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Conocí sobre los modelos de ciclo de vida del software y la magnitud de proyectos que se pueden realizar.
 * La exposición del framework Scrum fue de mucha ayuda.
 
+### Manuel Enrique Cupul May
+
+#### Soft Skills
+* Aprendí a tener una mejor organización y a optimizar mis tiempos.
+* Mejoré mi manera trabajar en equipo.
+#### Hard Skills
+* Aprendí sobre los distintos modelos de ciclo de vida del software y sus principales características.
+* Identifique las características del proyecto a trabajar y el modelo que más se le adecua.
 
 
 ## Unidad IV Áreas de Gestión de Software
@@ -68,3 +94,12 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 #### Hard Skills
 * Conocí sobre la estimación del esfuerzo, tiempo y costo del Software.
 * Comprendí de mayor forma la importancia de realizar Software.
+
+### Manuel Enrique Cupul May
+
+#### Soft Skills
+* Aprendí a utilizar nuevas herramientas para la documentación de proyectos.
+* Puse en función lo adquirido en las clases.
+#### Hard Skills
+* Conocí sobre la gestión de proyecto, gestión de calidad y gestión de configuración del software.
+* Conocí los distintos métodos y formulaciones que existen para hacer estimaciones.
