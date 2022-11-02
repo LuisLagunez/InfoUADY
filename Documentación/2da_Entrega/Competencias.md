@@ -68,7 +68,3 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 #### Hard Skills
 * Conocí sobre la estimación del esfuerzo, tiempo y costo del Software.
 * Comprendí de mayor forma la importancia de realizar Software.
-
-### Prueba
-
-> Esto es una prueba de que el Git está funcionado y está enlazado a Github.
