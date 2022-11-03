@@ -41,7 +41,8 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Conocí a fondo lo que es el concepto general de la ingeniería de software.
 * También aprendí sobre los principios de la ingeniería de software.
 
-###Jonatan Alberto Cuxim Poot
+### Jonatan Alberto Cuxim Poot
+
 
 ## Unidad II Áreas de Desarrollo Software
 
