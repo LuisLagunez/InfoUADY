@@ -42,7 +42,12 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * También aprendí sobre los principios de la ingeniería de software.
 
 ### Jonatan Alberto Cuxim Poot
-
+#### Soft skills
+* Obtuve un amplio conocimiento acerca de mi licenciatura, al igual en areas donde no tenia conocimiento.
+* El poder realizar los trabajos en tiempo y forma significativa.
+#### Hard skill
+* Comprendi en los principios de la ingenieria de software son principios fundamentales.
+* Conocilo que diferencia la carrera de ingenieria de sofware de las demas carreras. 
 
 ## Unidad II Áreas de Desarrollo Software
 
@@ -64,6 +69,14 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Conocí técnicas y procedimientos que se utilizan al desarrollar software.
 * También aprendí sobre las etapas del software y lo que cada una implica.
 
+### Jonatana Alberto Cuxim Poot
+#### Soft skill
+* Logro de poder tener un myor fluidez la hacer trabajos. 
+* Una mejor lectura, redacciones formales.
+* Mejore mis presentaciones.
+#### Hard skill
+* Tuve una mejor practica en ingles
+* Amplie mi conocimiento en la programacion 
 
 ## Unidad III Modelos del Ciclo de Vida del Software.
 
@@ -85,6 +98,15 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Aprendí sobre los distintos modelos de ciclo de vida del software y sus principales características.
 * Identifique las características del proyecto a trabajar y el modelo que más se le adecua.
 
+### Jonatana Alberto Cuxim Poot
+
+#### Soft skill
+* Amplie mi manera de interactuar y de pensar en el entorno creativo.
+* Aumente mi buena relacion y comunicacion con otros individuos.
+#### Hard skill
+* Diferencie sobre los modelos de trabajo en los cuales pueden ser de desarrollo agiles o desarrollos convencionales para proyectos de gran magnitud.
+* Tuve un mejor rendimiento al administrarme en el dia.
+* La oportunidad de tener una vision diferente a como hacer las cosas.
 
 ## Unidad IV Áreas de Gestión de Software
 
@@ -105,3 +127,13 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 #### Hard Skills
 * Conocí sobre la gestión de proyecto, gestión de calidad y gestión de configuración del software.
 * Conocí los distintos métodos y formulaciones que existen para hacer estimaciones.
+
+### Jonatana Alberto Cuxim Poot
+#### Soft skill
+* Una mejor practica de como resolver tareas asignadas.
+* Aplicacion de mis conocimientos en entornos de trabajo.
+* Obtuve una mejor manera de organizarme.
+#### Hard skill
+* Practique mas sobre procesos que se realizan en un proyecto.
+* Practique como ser mas enpatico.
+* Comprension en lo que los demas hacen y planean.
