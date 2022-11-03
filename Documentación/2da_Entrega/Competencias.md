@@ -42,12 +42,22 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * También aprendí sobre los principios de la ingeniería de software.
 
 ### Jonatan Alberto Cuxim Poot
+
 #### Soft skills
 * Obtuve un amplio conocimiento acerca de mi licenciatura, al igual en areas donde no tenia conocimiento.
 * El poder realizar los trabajos en tiempo y forma significativa.
 #### Hard skill
 * Comprendi en los principios de la ingenieria de software son principios fundamentales.
 * Conocilo que diferencia la carrera de ingenieria de sofware de las demas carreras. 
+
+### Raul Ismael Batun Nahuat
+
+#### Soft Skill
+* Obtuve una mejor vision acerca de la licenciatura mejorardo mi gusto por el.
+* La forma en la que me comunico en contexto con la IS se vió mejorado.
+#### Hard skill
+* Comprendo los conceptos basicos de la ingenieria de software.
+* Comprendo la importancia de un software de calidad.
 
 ## Unidad II Áreas de Desarrollo Software
 
@@ -70,13 +80,23 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * También aprendí sobre las etapas del software y lo que cada una implica.
 
 ### Jonatana Alberto Cuxim Poot
-#### Soft skill
-* Logro de poder tener un myor fluidez la hacer trabajos. 
+
+#### Soft Skill
+* Logro de poder tener una mayor fluidez al hacer trabajos. 
 * Una mejor lectura, redacciones formales.
 * Mejore mis presentaciones.
-#### Hard skill
+#### Hard Skill
 * Tuve una mejor practica en ingles
 * Amplie mi conocimiento en la programacion 
+
+### Raul Ismael Batun Nahuat
+
+#### Soft Skill
+* Mi entendimiento en la lectura se esta viendo mejorada.
+* Mejoré la habilidad del trabajo colaborativo.
+#### Hard Skill
+* Comprendo todas y cada uno de las cinco fases de la construccion del software.
+* Asi mismo, como se ven implementado en proyectos.
 
 ## Unidad III Modelos del Ciclo de Vida del Software.
 
@@ -108,6 +128,15 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Tuve un mejor rendimiento al administrarme en el dia.
 * La oportunidad de tener una vision diferente a como hacer las cosas.
 
+### Raul Ismael Batun Nahuat
+
+#### Soft Skill
+* Mejoré la flexibilidad para llevar a cabo ordenes.
+* La fluidez en el habla se esta viendo mejorada.
+#### Hard Skill
+* Comprendo y entiendo los conceptos de la metodología Scrum en un proyecto de software.
+* Comprendo la diferencia entre los modelos convencionales y los modelos ágiles.
+
 ## Unidad IV Áreas de Gestión de Software
 
 ### Luis Manuel Lagunez Rodríguez
@@ -129,6 +158,7 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Conocí los distintos métodos y formulaciones que existen para hacer estimaciones.
 
 ### Jonatana Alberto Cuxim Poot
+
 #### Soft skill
 * Una mejor practica de como resolver tareas asignadas.
 * Aplicacion de mis conocimientos en entornos de trabajo.
@@ -137,3 +167,12 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 * Practique mas sobre procesos que se realizan en un proyecto.
 * Practique como ser mas enpatico.
 * Comprension en lo que los demas hacen y planean.
+
+### Raul Ismael Batun Nahuat
+
+#### Soft Skill
+* Mejoré la forma de gestionar mi tiempo y asi poder llevar a cabo mis actividades.
+* Adquirí una mejor habilidad para planificar.
+#### Hard Skill
+* Obtuve nuevos concimientos respecto a la gestión y aquisición de costes en la Ingeniería de Software.
+* Conocí las etapas en la gestión de proyectos asi como tambien los diferentes tipos de métricas de estimación.
