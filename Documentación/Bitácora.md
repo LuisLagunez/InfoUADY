@@ -96,3 +96,51 @@
    * Aún no se sube en GitHub.
 ### Tareas para la siguiente reunión
    * Terminar cada parte repartida, para la finalización del proyecto.
+   
+# Bitácora de la segunda entrega
+
+## Sexta reunion 10/10/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Se enfoco al diseño de la pagina web
+### Avances o acuerdos
+   * Se dio a cada integrante una parte a realizar en la pagina y se especificaron los detalles de estilos y de como debe estar presentado.
+### Oportunidades
+   * oportunidad de poder darle formato a su parte de la pagina que le fue asignada y tener mayor habilidad
+### Desventajas
+   * 
+### Tareas para la siguiente reunión
+   * Tener ya listo unicamete el formato y el modelo de la pagina
+
+
+## Septima reunión 24/10/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Ajustar todas las paginas para que tengan el mismo estilo, formato.
+### Avances o acuerdos
+   * Se hizo la revison de las paginas que cada uno creo, se ajstaron detalles.
+   * Se dio mas retro alimentacion a como estara ya funcional
+   * Se utilizo Figma para poder hacer el boseto y poder dar la presentacion el dia 10 de nov
+### Oportunidades
+   * Oportunidad de poder tener conocimiento de figma y su funcionamiento de primera mano.
+### Desventajas
+   * 
+### Tareas para la siguiente reunión
+   *  Se mostrara ya terminada cada parte de la pagina y compartir su codigo.
+
+## Octava reunión 31/10/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * 
+### Avances o acuerdos
+   * Se terminaron las paginas que acada quien se le asigno, se compartio el codigo al lider del grupo
+   * El representante de equipo unira cada parte de las paginas
+### Oportunidades
+   * Una mejor organizacion
+### Desventajas
+   * esta completo pero aun no es funcional 
+### Tareas para la siguiente reunión
+   *  Terminar la pagina y hacerla funcional 
