@@ -28,7 +28,9 @@ Optamos por escoger la metodología Scrum pues es la más apta para nuestra form
 
     * Manuel Enrique Cupul May.
 
-    * Jonatan alberto cuxim poot.
+    * Jonatan alberto Cuxim Poot.
+
+    * Luis Manuel Lagunez Rodríguez.
     
     Se encargan de:
 
@@ -37,6 +39,30 @@ Optamos por escoger la metodología Scrum pues es la más apta para nuestra form
         * Interaccionan con los Skateholders para conocer en mayor medida el producto a construir.
 
         * Desarrollo óptimo y sin contratiempos de los requerimientos del proyecto.
+
+* **Encargados de documentación:** 
+
+    * Raúl Ismael Batun Nahuat.
+
+    * Manuel Enrique Cupul May.
+    
+    Se encargan de:
+
+        * Estructurar la información y organización de la documentación recopilada.
+
+        * Promover el uso de la teoría para una práctica óptima y correcta.
+
+        * Llevar un seguimiento del proyecto a manera escrita de forma descriptiva.
+
+* **Encargado de seguimiento del proyecto:** 
+
+    * Jonatan alberto Cuxim Poot.
+    
+    Se encarga de:
+
+        * Llevar un registro de cada reunión a forma de bitacora.
+
+        * Realizar calendarios de seguimiento y ajustes a estos.
  
 ## Sprint
 
