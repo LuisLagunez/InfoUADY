@@ -67,6 +67,11 @@
 | Prioridad | Alta |
 | Descripción | La página web deberá tener otras secciones dentro de las secciones principales para que el usuario no vea saturada la información y pueda ver únicamente lo que desea. |
 
+| RF12 | Página de noticias |
+|--------| ------ | 
+| Prioridad | Alta |
+| Descripción | La página servirá de igual forma para poder visualizar las noticias más relevantes de la Universidad y poder mantener informadas a las personas que deseen visitar nuestro sitio web. |
+
 ## Requerimientos No Funcionales
 
 | RNF01 | Usabilidad sencilla |
