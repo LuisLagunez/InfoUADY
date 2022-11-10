@@ -82,7 +82,7 @@
 ### Tareas para la siguiente reunión
    * Preparar la primera entrega del proyecto.
 
-## Quinta reunión 29/09/2022
+## Sexta reunión 29/09/2022
 ### Lugar de reunión
    * Unidad Multidisciplinaria Tizimín
 ### Observaciones
@@ -99,7 +99,7 @@
    
 # Bitácora de la segunda entrega
 
-## Sexta reunion 10/10/2022
+## Séptima reunion 10/10/2022
 ### Lugar de reunión
    * Unidad Multidisciplinaria Tizimín
 ### Observaciones
@@ -114,7 +114,7 @@
    * Tener ya listo unicamete el formato y el modelo de la pagina
 
 
-## Septima reunión 24/10/2022
+## Octava reunión 24/10/2022
 ### Lugar de reunión
    * Unidad Multidisciplinaria Tizimín
 ### Observaciones
@@ -130,7 +130,7 @@
 ### Tareas para la siguiente reunión
    *  Se mostrara ya terminada cada parte de la pagina y compartir su codigo.
 
-## Octava reunión 31/10/2022
+## Novena reunión 31/10/2022
 ### Lugar de reunión
    * Unidad Multidisciplinaria Tizimín
 ### Observaciones
