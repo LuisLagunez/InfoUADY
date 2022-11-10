@@ -4,6 +4,11 @@
 
 Utilizamos esta aplicación como nuestra primera herramienta de comunicación a distancia poara poder llevar un seguimiento informal de nuestras actividades y planear reuniones dentro del equipo de trabajo que fueron usualmente llevadas a cabo dentro de la biblioteca de la Unidad Multidisciplinaria Tizimín.
 
+> Slack
+
+Fue nuestra segunda herramienta de comunicación para poder aprender de este software y la forma en que funciona para futuros proyectos y tener una experiencia
+previa en la que basarnos para utilizarse en el mundo laboral.
+
 ## Encuesta
 > Google Forms 
 
