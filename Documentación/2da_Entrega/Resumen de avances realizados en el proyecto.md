@@ -15,7 +15,7 @@
 
 Se agregó el siguiente requerimiento.
 
-| RF11 | Página de noticias |
+| RF12 | Página de noticias |
 |--------| ------ | 
 | Prioridad | Alta |
 | Descripción | La página servirá de igual forma para poder visualizar las noticias más relevantes de la Universidad y poder mantener informadas a las personas que deseen visitar nuestro sitio web. |
