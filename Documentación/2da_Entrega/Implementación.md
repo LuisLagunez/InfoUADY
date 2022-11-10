@@ -1,4 +1,4 @@
-# Competencias disciplinares de la asignatura Fundamentos de Ingeniería de Software
+# Implementación de página web como producto realizado.
 ## Estudio de análisis hacía nuestra población.
 
 Lo primera que realizamos fueron unas encuestas que nos ayudaron a conocer mejor a los estudiantes de la universidad y localizar una forma en que nuestro
