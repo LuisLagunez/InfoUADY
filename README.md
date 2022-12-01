@@ -33,10 +33,10 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 
 
 # Índice Segunda Entrega
-* [Resumen de Avances Realizados en el Proyecto](Documentación/2da_Entrega/Resumen de avances realizados en el proyecto.md)
+* [Resumen de Avances Realizados en el Proyecto](Documentación/2da_Entrega/Resumen%20de%20avances%20realizados%20en%20el%20proyecto.md)
 * [Implementación](Documentación/2da_Entrega/Implementación.md)
-* [Fases de Desarrollo](Documentación/2da_Entrega/Fases de desarrollo.md)
-* [Cronograma de Actividad](Documentación/2da_Entrega/Cronograma de actividades Segunda entrega.jpg)
+* [Fases de Desarrollo](Documentación/2da_Entrega/Fases%20de%20desarrollo.md)
+* [Cronograma de Actividad](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
 
 
 # Entregables Generales
