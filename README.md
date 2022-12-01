@@ -30,4 +30,15 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 * [Métricas](Documentación/1ra_Entrega/Métricas.pdf)
 * [Diagrama Caso de Uso](Documentación/1ra_Entrega/Diagrama_Caso_de_Uso.PNG)
 * [Cronograma de Actividades](Documentación/1ra_Entrega/Cronograma_Actividades.PNG)
+
+
+# Índice Segunda Entrega
+* [Resumen de Avances Realizados en el Proyecto](Documentación/2da_Entrega/Resumen de avances realizados en el proyecto.md)
+* [Implementación](Documentación/2da_Entrega/Implementación.md)
+* [Fases de Desarrollo](Documentación/2da_Entrega/Fases de desarrollo.md)
+* [Cronograma de Actividad](Documentación/2da_Entrega/Cronograma de actividades Segunda entrega.jpg)
+
+
+# Entregables Generales
 * [Bitácoras](Documentación/Bitácora.md)
+* [Competencias](Documentación/2da_Entrega/Competencias.md)
