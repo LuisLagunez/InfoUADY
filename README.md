@@ -39,6 +39,6 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 
 
 # Entregables Generales
-* [Bitácora de Evidencia](Documentación/Bitácora.md)
+* [Bitácora de Evidencia](Documentación/Bitácora)
 * [Competencias](Documentación/2da_Entrega/Competencias.md)
 * [Métricas](Documentación/Métricas.pdf)
