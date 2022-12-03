@@ -143,4 +143,68 @@
 ### Desventajas
    * esta completo pero aun no es funcional 
 ### Tareas para la siguiente reunión
-   *  Terminar la pagina y hacerla funcional 
+   *  Terminar la pagina y hacerla funcional
+
+# Bitácora de la tercera entrega 
+
+## Décima reunión 17/11/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Formato de Final de la página 
+   * Reforzamiento de la página 
+### Avances o acuerdos
+   * Refinamiento de los módulos de la página
+   * Correciones de bugs 
+### Oportunidades
+   * Oportunidad de reparar y mejorarar los módulos 
+### Desventajas
+   *  Surgió bugs 
+### Tareas para la siguiente reunión
+   *  Explicacion de lo que se ara para la presentación del proyecto final 
+
+
+## Onceava reunión 23/11/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Presentación 
+### Avances o acuerdos
+   * repartición de partes en la diapositiva del productobfinal 
+### Oportunidades
+   * Mejorar nuestras confianza
+### Desventajas
+   * No quedaron muy claro lo explicado 
+   * El tiempo  
+### Tareas para la siguiente reunión
+   *  Retro alimentación de lo explicado para las diapositivas 
+
+## Doceava reunión 30/11/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Retro alimentación 
+### Avances o acuerdos
+   * Conclusion de repartición de las actividades a desarrollar en la diapositiva del proyecto 
+### Oportunidades
+   * Confiaza y comunicación 
+### Desventajas
+   *  
+### Tareas para la siguiente reunión
+   *  Retroalimentación de dudas y aclaración es que puedan surgir 
+
+
+## Treceava reunión 01/12/2022
+### Lugar de reunión
+   * Unidad Multidisciplinaria Tizimín
+### Observaciones
+   * Correcciones 
+   * Dudas y aclaraciones 
+### Avances o acuerdos
+   * Comienzo de elaboración de diapositivas 
+### Oportunidades
+   * Compañerismo 
+### Desventajas
+   *  
+### Tareas para la siguiente reunión
+   *  Entrega final de todo el proyecto 
