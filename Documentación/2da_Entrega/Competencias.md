@@ -194,8 +194,11 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 ### Manuel Enrique Cupul May
 
 #### Soft Skills
-
+* Mejoré mi nivel de confíanza hacia mi grupo de trabajo.
+* Desarrollé técnicas para trabajar de forma eficaz bajo presión.
 #### Hard Skills
+* Concí información nueva e importante sobre como programar páginas web. 
+* Aprendí los distintos roles que existen en los grupos de desarrollo de software.
 
 
 ### Jonatan Alberto Cuxim Poot
