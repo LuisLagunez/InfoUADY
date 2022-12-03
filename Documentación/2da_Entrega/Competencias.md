@@ -17,6 +17,9 @@ Selecciona el Modelo de Ciclo de Vida del Software en el inicio de un proyecto, 
 ## Unidad IV Áreas de Gestión de Software
 Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas utilizados en los procesos de estimación, planificación, seguimiento, control, calidad y configuración del software, de acuerdo con el cuerpo de conocimientos reconocido por la disciplina.
 
+## Unidad V Factores Humanos en Ingeniería de Software
+Identifica los principales factores humanos que inciden en el éxito o fracaso de los procesos de software, de acuerdo con el marco teórico de la disciplina.
+
 > Con base a esta información presentada durante la unidad fue la manera en que pudimos estimar costos para nuestro proyecto de la asignatura y poder tener un mayor acercamiento al mundo empresarial. La estimación pudo no haber sido correcta del todo pero fue hecha a manera de aplicar los conocimientos adquiridos.
 
 # Desarrollo de las competencias de forma individual
@@ -176,3 +179,35 @@ Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas
 #### Hard Skill
 * Obtuve nuevos concimientos respecto a la gestión y aquisición de costes en la Ingeniería de Software.
 * Conocí las etapas en la gestión de proyectos asi como tambien los diferentes tipos de métricas de estimación.
+
+## Unidad V Factores Humanos en Ingeniería de Software
+
+### Luis Manuel Lagunez Rodríguez
+
+#### Soft Skills
+* Obtuve una mayor capacidad de liderazgo.
+* Desarrollé un mayor control en mi organización de actividades y comunicación con mi equipo.
+#### Hard Skills
+* Apliqué el concepto de roles funcionales a nuestro proyecto.
+* Comprendí de mejor manera la importancia del trabajo en equipo en la Ingeniería de Software.
+
+### Manuel Enrique Cupul May
+
+#### Soft Skills
+
+#### Hard Skills
+
+
+### Jonatana Alberto Cuxim Poot
+
+#### Soft skill
+
+#### Hard skill
+
+
+### Raul Ismael Batun Nahuat
+
+#### Soft Skill
+
+#### Hard Skill
+
