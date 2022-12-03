@@ -44,7 +44,7 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 * Conocí a fondo lo que es el concepto general de la ingeniería de software.
 * También aprendí sobre los principios de la ingeniería de software.
 
-### Jonatan Alberto Cuxim Poot
+### Jonata Alberto Cuxim Poot
 
 #### Soft skills
 * Obtuve un amplio conocimiento acerca de mi licenciatura, al igual en areas donde no tenia conocimiento.
@@ -82,7 +82,7 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 * Conocí técnicas y procedimientos que se utilizan al desarrollar software.
 * También aprendí sobre las etapas del software y lo que cada una implica.
 
-### Jonatana Alberto Cuxim Poot
+### Jonatan Alberto Cuxim Poot
 
 #### Soft Skill
 * Logro de poder tener una mayor fluidez al hacer trabajos. 
@@ -121,7 +121,7 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 * Aprendí sobre los distintos modelos de ciclo de vida del software y sus principales características.
 * Identifique las características del proyecto a trabajar y el modelo que más se le adecua.
 
-### Jonatana Alberto Cuxim Poot
+### Jonatan Alberto Cuxim Poot
 
 #### Soft skill
 * Amplie mi manera de interactuar y de pensar en el entorno creativo.
@@ -160,7 +160,7 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 * Conocí sobre la gestión de proyecto, gestión de calidad y gestión de configuración del software.
 * Conocí los distintos métodos y formulaciones que existen para hacer estimaciones.
 
-### Jonatana Alberto Cuxim Poot
+### Jonatan Alberto Cuxim Poot
 
 #### Soft skill
 * Una mejor practica de como resolver tareas asignadas.
@@ -198,7 +198,7 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 #### Hard Skills
 
 
-### Jonatana Alberto Cuxim Poot
+### Jonatan Alberto Cuxim Poot
 
 #### Soft skill
 
