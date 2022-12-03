@@ -208,6 +208,9 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 ### Raul Ismael Batun Nahuat
 
 #### Soft Skill
-
+* Mejoré mi habilidad de trabajar en equipo asi como la capacidad para cumplir con las tareas que se me asignaron.
+* Desarrollé confianza para poder dar mis opiniones en las decisiones que se tomarón en el equipo de desarrollo.
 #### Hard Skill
-
+* Aprendi a usar un software de administración de proyectos, especificamente Jira debido a que es el que usamos para llevar el control de nuestras tareas.
+* Aprendi sobre las etiquetas basicas de HTML y CSS para poder programar el módulo que se me asignó.
+* Comprendí la importancia de los roles en general en un equipo de desarrollo, principalmente los roles de lider y de adminstrador.
