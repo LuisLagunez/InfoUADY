@@ -36,6 +36,7 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 * [Implementación](Documentación/2da_Entrega/Implementación.md)
 * [Fases de Desarrollo](Documentación/2da_Entrega/Fases%20de%20desarrollo.md)
 * [Cronograma de Actividades](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
+* [Sitio Web Versión Alfa](https://infouadyalfa.netlify.app/)
 
 # Índice Entrega Final
 * [Sitio Web](https://infouadyfis.netlify.app/index.html)
