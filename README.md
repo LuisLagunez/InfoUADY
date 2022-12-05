@@ -35,7 +35,11 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 * [Resumen de Avances Realizados en el Proyecto](Documentación/2da_Entrega/Resumen%20de%20avances%20realizados%20en%20el%20proyecto.md)
 * [Implementación](Documentación/2da_Entrega/Implementación.md)
 * [Fases de Desarrollo](Documentación/2da_Entrega/Fases%20de%20desarrollo.md)
-* [Cronograma de Actividad](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
+* [Cronograma de Actividades](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
+
+# Índice Entrega Final
+* [Sitio Web](https://infouadyfis.netlify.app/index.html)
+* [Cronograma de Actividades](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
 
 
 # Entregables Generales
