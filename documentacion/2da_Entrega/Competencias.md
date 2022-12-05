@@ -204,8 +204,12 @@ Identifica los principales factores humanos que inciden en el éxito o fracaso d
 ### Jonatan Alberto Cuxim Poot
 
 #### Soft skill
+* Mejore mi manera de ver las cosas 
+* Aprendi a convivir con cada caracter de mis compañeros 
 
 #### Hard skill
+* Aprendi a organizarme mejor en grupo
+* Desempeñe un rol y conoci su inportancia de primera mano 
 
 
 ### Raul Ismael Batun Nahuat
