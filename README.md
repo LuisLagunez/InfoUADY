@@ -40,6 +40,7 @@ Es un proyecto desarrollado por estudiantes de Ingeniería de Software que busca
 
 # Índice Entrega Final
 * [Sitio Web](https://infouadyfis.netlify.app/index.html)
+* [Presentación](Documentación/Entrega_Final/Presentación_InfoUADY.pdf)
 * [Cronograma de Actividades](Documentación/2da_Entrega/Cronograma%20de%20actividades%20Segunda%20entrega.jpg)
 
 
