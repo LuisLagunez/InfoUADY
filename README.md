@@ -5,7 +5,7 @@
 
 # Equipo
 
-* [Luis Manuel Lagunez Rodríguez](https://github.com/LuisLagunez)
+* [Luis Manuel Lagunez Rodríguez.](https://github.com/LuisLagunez)
 * [Raúl Ismael Batun Nahuat.](https://github.com/RaulNahuat)
 * [Manuel Enrique Cupul May.](https://github.com/ManuelC13)
 * [Jonatan Alberto Cuxim Poot.](https://github.com/jonatancuxim)
